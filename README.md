@@ -13,8 +13,8 @@ All labels were assigned by an expert annotator who is a native speaker of Germa
 
 ## Files
 The data consists of two lists of GermaNet verbs (Hamp and Feldweg, 1997), annotated for whether they cause shifting:
-    1. `verbal_shifters.gold_standard.txt`: The initial gold standard (§3) of 2000 randomly sampled verbs.
-    2. `verbal_shifters.bootstrapping.txt`: The bootstrapped 595 verbs (§5.3) that were labelled as shifters by our best classifier and then manually annotated.
+1. `verbal_shifters.gold_standard.txt`: The initial gold standard (§3) of 2000 randomly sampled verbs.
+2. `verbal_shifters.bootstrapping.txt`: The bootstrapped 595 verbs (§5.3) that were labelled as shifters by our best classifier and then manually annotated.
 
 ### Format
 Each line contains a verb and its label, separate by a whitespace.
