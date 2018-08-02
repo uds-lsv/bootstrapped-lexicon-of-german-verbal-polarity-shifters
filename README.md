@@ -28,7 +28,7 @@ If you use it in your research or work, please cite the publication (see above).
 ```
 @inproceedings{schulder2018germanshifter,
   title={Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German},
-  author={Schulder, Marc and Wiegand, Michael and Ruppenhofer, Jose},
+  author={Schulder, Marc and Wiegand, Michael and Ruppenhofer, Josef},
   booktitle={Proceedings of the 27th International Conference on Computational Linguistics},
   year={2018},
   publisher={International Committee on Computational Linguistics},
