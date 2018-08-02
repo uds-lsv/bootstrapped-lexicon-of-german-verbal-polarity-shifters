@@ -33,7 +33,7 @@ If you use it in your research or work, please cite the publication (see above).
   year={2018},
   publisher={International Committee on Computational Linguistics},
   volume={1},
-  location={Santa Fe, New Mexico, USA},
+  address={Santa Fe, New Mexico, USA},
 }
 ```
 
