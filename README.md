@@ -1,15 +1,18 @@
 # Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German
 This repository contains the data created as part of:
 
-[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) (2017). **"Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German"**. Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018). Santa Fe, New Mexico, USA, August 20 - August 26, 2018.
-
-[PDF](http://marc.schulder.info/data/SchulderWiegandRuppenhofer2018.pdf)
+[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) (2017). [**"Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German"**](http://www.aclweb.org/anthology/C18-1213). Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018). Santa Fe, New Mexico, USA, August 20 - August 26, 2018.
 
 ## Content
 We provide a bootstrapped lexicon of German verbal polarity shifters.
 Our lexicon covers 2595 verbs of GermaNet (Hamp and Feldweg, 1997).
 Polarity shifter labels are given for each word lemma.
 All labels were assigned by an expert annotator who is a native speaker of German.
+
+### Resources
+- **Paper**: [ACL Anthology](http://www.aclweb.org/anthology/C18-1213)
+- **Poster**: [Link](http://marc.schulder.info/files/posters/2018_07_bootstrapped-lexicon-of-german-verbal-polarity-shifters.pdf)
+- **Data**: See content of this repository
 
 ## Files
 The data consists of two lists of GermaNet verbs (Hamp and Feldweg, 1997), annotated for whether they cause shifting:
