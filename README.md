@@ -1,4 +1,6 @@
 # Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3365369.svg)](https://doi.org/10.5281/zenodo.3365369)
+
 This repository contains the data created as part of:
 
 [Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) (2018). [**"Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German"**](http://www.aclweb.org/anthology/C18-1213). Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018). Santa Fe, New Mexico, USA, August 20 - August 26, 2018.
