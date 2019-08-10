@@ -7,7 +7,7 @@ This repository contains the data created as part of:
 
 ## Content
 We provide a bootstrapped lexicon of German verbal polarity shifters.
-Our lexicon covers 2595 verbs of GermaNet (Hamp and Feldweg, 1997).
+Our lexicon covers 2595 verbs of [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) (Hamp and Feldweg, 1997).
 Polarity shifter labels are given for each word lemma.
 All labels were assigned by an expert annotator who is a native speaker of German.
 
