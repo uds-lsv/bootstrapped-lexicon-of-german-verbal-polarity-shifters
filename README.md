@@ -1,4 +1,4 @@
-# Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German
+# Bootstrapped Lexicon of German Verbal Polarity Shifters
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3365369.svg)](https://doi.org/10.5281/zenodo.3365369)
 
 This repository contains the data created as part of:
