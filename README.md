@@ -17,9 +17,12 @@ All labels were assigned by an expert annotator who is a native speaker of Germa
 - **Data:** See content of this repository
 
 #### Related Resources
-- **[IJCNLP 2017](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level)
-- **[LREC 2018](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level)
-
+- **[Polarity Shifter Resources](https://github.com/uds-lsv/polarity-shifter-resources)**
+  - **[IJCNLP 2017](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level)
+  - **[LREC 2018](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level)
+  - **[LREC 2020](https://github.com/uds-lsv/lexicon-of-polarity-shifting-directions):** Lexicon of Polarity Shifting Directions (supervised classification, lemma-level).
+  - **[Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+- **[Word Embedding of Amazon Product Review Corpus](https://doi.org/10.5281/zenodo.3370051):** Word2Vec word embedding used to create this data.
 ## Files
 The data consists of two lists of GermaNet verbs (Hamp and Feldweg, 1997), annotated for whether they cause shifting:
 1. `verbal_shifters.gold_standard.txt`: The initial gold standard (§3) of 2000 randomly sampled verbs.
