@@ -3,7 +3,7 @@
 
 This repository contains the data created as part of:
 
-[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) (2018). [**"Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German"**](https://www.aclweb.org/anthology/C18-1213). _Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)_, pages 2516–2528, Santa Fe, New Mexico, USA, 20–26 August 2018.
+[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/) and [Josef Ruppenhofer](http://ruppenhofer.de/) (2018). [**"Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German"**](https://www.aclweb.org/anthology/C18-1213). _Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)_, pages 2516–2528, Santa Fe, New Mexico, USA, 20–26 August 2018.
 
 ## Content
 We provide a bootstrapped lexicon of German verbal polarity shifters.
@@ -21,7 +21,7 @@ All labels were assigned by an expert annotator who is a native speaker of Germa
   - **[IJCNLP 2017](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level)
   - **[LREC 2018](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level)
   - **[LREC 2020](https://github.com/uds-lsv/lexicon-of-polarity-shifting-directions):** Lexicon of Polarity Shifting Directions (supervised classification, lemma-level).
-  - **[Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+  - **[JNLE 2020](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
 - **[Word Embedding of Amazon Product Review Corpus](https://doi.org/10.5281/zenodo.3370051):** Word2Vec word embedding used to create this data.
 ## Files
 The data consists of two lists of GermaNet verbs (Hamp and Feldweg, 1997), annotated for whether they cause shifting:
